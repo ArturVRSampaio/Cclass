@@ -16,7 +16,7 @@ int main(){
     printf("character = %d,Stored as integer \n", str);
 
     printf("\n");
-    printf("str3 = %s\n",str);
+    printf("str3 = %s\n",str3);
 
     // str len and c str limits !!
     // strings are read until the "\0" symbol

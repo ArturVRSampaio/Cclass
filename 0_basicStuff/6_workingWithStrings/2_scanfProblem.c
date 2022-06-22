@@ -6,8 +6,8 @@ int main(){
     // ! scanfLimitation!
     printf("gimme a string!! \n");
     scanf("%s", readFromUser);
-    printf("did you mean:");
-    printf("%s ",readFromUser);
+    printf("did you mean: \n");
+    printf("%s \n",readFromUser);
 
     return 0;
 }

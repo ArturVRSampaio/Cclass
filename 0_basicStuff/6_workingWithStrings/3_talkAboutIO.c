@@ -10,6 +10,7 @@ int main(){
 
     puts("insted of scanf() we can use the gets");
     gets(readFromUser);
+    puts(readFromUser);
     puts("...");
     puts("BUT, we shouldent cuz it can be exploited");
 
